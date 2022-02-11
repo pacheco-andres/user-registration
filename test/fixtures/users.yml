@@ -1,0 +1,17 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  lastName: MyString
+  age: 1
+  roll: MyString
+  company: MyString
+  dateOfAdmission: MyString
+
+two:
+  name: MyString
+  lastName: MyString
+  age: 1
+  roll: MyString
+  company: MyString
+  dateOfAdmission: MyString
